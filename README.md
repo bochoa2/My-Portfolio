@@ -3,7 +3,7 @@
 <h2>Professional Statement:</h2>
   I am eager to bring my skills and dedication to a dynamic work environment where I can learn, grow, and contribute meaningfully. I am committed to applying my knowledge and experience to deliver results while continuously seeking opportunities to expand my expertise. My enthusiasm for learning and my passion for excellence drive me to embrace new challenges and work collaboratively to achieve the goals of the organization.
 <h2>Certification:</h2>
-- [Google Cybersecurity Certificate](https://coursera.org/share/c9f7437d2cdde9994c40a5a9bf0ffd6b)
+<a href="https://coursera.org/share/c9f7437d2cdde9994c40a5a9bf0ffd6b">Google Cybersecurity Certificate</a> 
   <h2>👨‍💻 Projects:</h2>
 
 
