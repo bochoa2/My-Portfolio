@@ -8,7 +8,7 @@
   <h2>👨‍💻 Projects:</h2>
 <a href="https://studentweb.kennesaw.edu/~bochoa2/3260/index.html"> Coursework project showcasing skills using HTML and CSS </a>
 [project](https://docs.google.com/document/d/10b7Xc1N2C1mggKY5iu_YlxhbIjWjQWVCety_L2eNzHg/edit?usp=sharing&resourcekey=0-2UhNXoDiB9VP1vKrbQ8hQg)
-
+[GitHub Pages](https://pages.github.com/)
 
 <h2> 🤳 Connect with me:</h2>
 
