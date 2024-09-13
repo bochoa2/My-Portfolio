@@ -15,7 +15,6 @@
 
 <a href="https://docs.google.com/document/d/10b7Xc1N2C1mggKY5iu_YlxhbIjWjQWVCety_L2eNzHg/edit?usp=sharing&resourcekey=0-2UhNXoDiB9VP1vKrbQ8hQg"> SQL Project</a>
 
-
 Project showing how I applied filters to SQL queries
 
 
