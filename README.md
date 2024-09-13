@@ -6,8 +6,9 @@
 <a href="https://coursera.org/share/c9f7437d2cdde9994c40a5a9bf0ffd6b">Google Cybersecurity Certificate</a> 
   The Google Cybersecurity Certificate provides a comprehensive foundation in cybersecurity, covering key areas like network security, risk management, incident response, and cryptography. It equiped me with essential skills in problem-solving, critical thinking, and using tools like Python, Linux, SQL, firewalls, VPNs, multi-factor authentication (MFA), and encryption software, preparing me to protect systems and data from modern cyber threats.
   <h2>👨‍💻 Projects:</h2>
-<a href="https://studentweb.kennesaw.edu/~bochoa2/3260/index.html"> Coursework project showcasing skills using HTML and CSS </a>
-<b></b>
+<a href="https://studentweb.kennesaw.edu/~bochoa2/3260/index.html"> Coursework project showcasing skills using HTML and CSS </a>  
+
+
 <a href="https://docs.google.com/document/d/10b7Xc1N2C1mggKY5iu_YlxhbIjWjQWVCety_L2eNzHg/edit?usp=sharing&resourcekey=0-2UhNXoDiB9VP1vKrbQ8hQg"> SQL project
 
 
