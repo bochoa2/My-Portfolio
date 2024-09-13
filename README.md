@@ -5,7 +5,7 @@
 <h2>Certification:</h2>
 <a href="https://coursera.org/share/c9f7437d2cdde9994c40a5a9bf0ffd6b">Google Cybersecurity Certificate</a> 
   <h2>👨‍💻 Projects:</h2>
-
+<a href="https://studentweb.kennesaw.edu/~bochoa2/3260/index.html"> Coursework project showcasing skills using HTML and CSS </a>
 
 
 
